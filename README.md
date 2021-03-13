@@ -2,4 +2,4 @@ Amidst is a tool to display an overview of the biomes and structures in a Minecr
 * Creating derivative tools to aid datapack creation
 * Learning how Amidst works internally, so that some day I may contribute to keeping it great in the future
 
-The original project can be found here: [Project Page](https://github.com/toolbox4minecraft/amidst)
+The original project can be found here: (https://github.com/toolbox4minecraft/amidst)
