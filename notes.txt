@@ -1,0 +1,5 @@
+Worldgen simulation is accomplished by extracting relative classes from the Minecraft JAR. Classes are found using a ClassTranslator.
+For MC 1.16-1.17, the ClassTranslator is created by amidst.mojangapi.minecraftinterface.local.DefaultClassTranslator.
+(Older versions have their own ClassTranslator creators)
+
+Note that worldgen has been datapack driven since MC 1.16, which is supported. Presumably, this means AMIDST can already handle datapacks, or at least the default ones.
